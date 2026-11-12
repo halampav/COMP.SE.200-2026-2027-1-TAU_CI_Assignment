@@ -1,0 +1,18 @@
+{
+  "all": true,
+  "src": ["src"],
+  "include": [
+    "src/add.js",
+    "src/isObject.js",
+    "src/toNumber.js",
+    "src/map.js",
+    "src/filter.js",
+    "src/isEmpty.js",
+    "src/get.js",
+    "src/ceil.js",
+    "src/eq.js",
+    "src/toString.js"
+  ],
+  "exclude": [".internal/**", "test/**", "node_modules/**", "coverage/**", "mochawesome-report/**"],
+  "reporter": ["text", "lcov"]
+}

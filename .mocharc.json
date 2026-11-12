@@ -1,0 +1,11 @@
+{
+  "spec": "test/**/*.js",
+  "loader": "testdouble",
+  "reporter": "mochawesome",
+  "node-option": ["no-warnings"],
+  "reporter-option": [
+    "reportDir=mochawesome-report",
+    "reportFilename=report",
+    "quiet=true"
+  ]
+}
