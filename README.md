@@ -2,7 +2,7 @@
 
 This repository contains the unit tests and CI setup for the course **COMP.SE.200-2026-2027-TAU** at **Tampere University**.
 
-[![Coverage Status](https://coveralls.io/github/halampav/COMP.SE.200-2026-2027-1-TAU_CI_Assignment?branch=main)](https://coveralls.io/github/halampav/COMP.SE.200-2026-2027-1-TAU_CI_Assignment?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/halampav/COMP.SE.200-2026-2027-1-TAU_CI_Assignment/badge.svg?branch=main)](https://coveralls.io/github/halampav/COMP.SE.200-2026-2027-1-TAU_CI_Assignment?branch=main)
 
 ## Authors
 
